@@ -1,0 +1,10 @@
+C:\Users\Mayron\Documents\Visual Studio 2012\Projects\Cajero\Cajero\bin\Debug\Cajero.exe.config
+C:\Users\Mayron\Documents\Visual Studio 2012\Projects\Cajero\Cajero\bin\Debug\Cajero.exe
+C:\Users\Mayron\Documents\Visual Studio 2012\Projects\Cajero\Cajero\bin\Debug\Cajero.pdb
+C:\Users\Mayron\Documents\Visual Studio 2012\Projects\Cajero\Cajero\bin\Debug\Cajero.xml
+C:\Users\Mayron\Documents\Visual Studio 2012\Projects\Cajero\Cajero\obj\Debug\WindowsApplication1.Resources.resources
+C:\Users\Mayron\Documents\Visual Studio 2012\Projects\Cajero\Cajero\obj\Debug\Cajero.vbproj.GenerateResource.Cache
+C:\Users\Mayron\Documents\Visual Studio 2012\Projects\Cajero\Cajero\obj\Debug\Cajero.exe
+C:\Users\Mayron\Documents\Visual Studio 2012\Projects\Cajero\Cajero\obj\Debug\Cajero.xml
+C:\Users\Mayron\Documents\Visual Studio 2012\Projects\Cajero\Cajero\obj\Debug\Cajero.pdb
+C:\Users\Mayron\Documents\Visual Studio 2012\Projects\Cajero\Cajero\obj\Debug\WindowsApplication1.Cajero.resources
